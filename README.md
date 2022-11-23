@@ -1,7 +1,7 @@
 ![icone](https://user-images.githubusercontent.com/67145585/203426723-204e2711-e4d6-4c81-898d-f718139e7b7d.png)
 
 # PY_pendu 
-## ⚠Merci de bien lire cette présentation avant d'éxécuter le programme afin de comprendre les limites et les spécifications de ce dernier!⚠
+## ⚠Merci de bien lire cette présentation avant d'exécuter le programme afin de comprendre les limites et les spécifications de ce dernier!⚠
 
 ### - [Présentation](https://github.com/DR34M-M4K3R/PY_pendu#pr%C3%A9sentation)
 ### - [Fonctionalités](https://github.com/DR34M-M4K3R/PY_pendu#fonctionalites)
@@ -11,16 +11,16 @@
 
 ## Présentation
 
-### Py_pendu est un jeu *triple A* sorti en Novembre 2022 avec un avenir prometteur, surtout grâce à ses graphismes inégalables au 21eme siècle, et son gameplay epoustouflant!
+### Py_pendu est un jeu *triple A* sorti en Novembre 2022 avec un avenir prometteur, surtout grâce à ses graphismes inégalables au 21ème siècle, et son gameplay époustouflant!
 
-## Fonctionalites
+## Fonctionalités
 Plus sérieusement, PY_pendu (nom original) possède ces fonctionalités:
-- **Clavier virtuel** dont les touches se mettent à jour en fonction des porpositions de l'utilisateur
+- **Clavier virtuel** dont les touches se mettent à jour en fonction des propositions de l'utilisateur
 - Possibilité d'utiliser le clavier physique pour entrer des lettres
- - Une ***interface graphique*** hors pair grâce au **moteur graphique ultra-avancé de dernière génération 'Tkinter'**
+ - Une ***interface graphique*** hors-pair grâce au **moteur graphique ultra-avancé de dernière génération 'Tkinter'**
 
 ## Version en ligne
-La [version en ligne](https://replit.com/@DR34MM4K3R/PYpendu) est recommandée car l'execution via EduPython est bugée, et prive l'utilisateur d'une experience optimale.
+La [version en ligne](https://replit.com/@DR34MM4K3R/PYpendu) est recommandée car l'exécution via EduPython est buguée, et prive l'utilisateur d'une expérience optimale.
 
 
 ## Changelog
@@ -31,15 +31,15 @@ https://githistory.xyz/DR34M-M4K3R/PY_pendu/blob/main/main.py
 
 ## Limites
 
-Ce programme comporte des limites qui ne peuvent-êtres citées dans une liste exhaustive.
+Ce programme comporte des limites qui ne peuvent être citées dans une liste exhaustive.
 En revanche, en voici quelques-unes:
 
-### L'éxécution sous Windows, et plus particulièrement via le logiciel 'EduPython' prive le joueur de certaines fonctionalités
+### L'exécution sous Windows, et plus particulièrement via le logiciel 'EduPython' prive le joueur de certaines fonctionalités
 En effet, du fait des différences de versions entre l'environnement de développement du programme et celui du lycée, il se peut que certaines fonctionalités ne fonctionnent pas comme souhaité.
 
 ### Le programme affiche des caractères en trop ou en moins, ne détecte pas lorsque le joueur gagne...
 
-Bien que nous avons concentrés notre maximum d'effort dans la réalisation du programme, la programmation n'est pas parfaite et présente des soucis (bugs) qui ne peuvent-êtres résolus à notre niveau par exemple, ou qui n'ont pas été détéctés. Cela est aussi du à un temps de développement donné, et donc aucun support sur le long-terme. Ces problèmes ne peuvent donc pas êtres résolus même après découverte.
+Bien que nous avons concentré notre maximum d'efforts dans la réalisation du programme, la programmation n'est pas parfaite et présente des soucis (bugs) qui ne peuvent-êtres résolus à notre niveau par exemple, ou qui n'ont pas été détéctés. Cela est aussi dû à un temps de développement donné, et donc aucun support sur le long-terme. Ces problèmes ne peuvent donc pas être résolus même après découverte.
 
 (La fonctionalité qui permet de rejouer est absente à cause d'un manque de temps)
 
